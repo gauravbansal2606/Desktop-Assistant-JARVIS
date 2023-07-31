@@ -51,7 +51,6 @@ def takeCommand():
     return query       
 
 
-
 if __name__=="__main__":
     wishMe()
     while True:
